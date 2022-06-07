@@ -9,3 +9,4 @@ This repo includes a bok list that have influenced my career growth.
     - 20 Python Libraries you aren't using (But Should), by Caleb Hattingh
     - Python Concurrency with asyncio, by  Matthew Fowler
     - Kubernetes in Practice, by Brian Storti
+    - Automating Workflows with GitHub Actions, by Priscila Heller
