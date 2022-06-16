@@ -10,3 +10,6 @@ This repo includes a bok list that have influenced my career growth.
     - Python Concurrency with asyncio, by  Matthew Fowler
     - Kubernetes in Practice, by Brian Storti
     - Automating Workflows with GitHub Actions, by Priscila Heller
+
+## Current Reads
+    - Data Pipelines with Apache Airflow, by Julian de Ruiter and Bas Harenslak
