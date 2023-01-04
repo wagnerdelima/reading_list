@@ -1,8 +1,8 @@
 # Book List
-This repo includes a bok list that have influenced my career growth.
+This repo includes a book list that have influenced my career growth.
 
 
-## Books read in 2022
+## Books I read
 
     - Using Asyncio in Python: Understanding Python's Asynchronous Programming Features, by Caleb Hattingh
     - Designing Data-Intensive Applications by Martin Kleppmann
@@ -11,5 +11,9 @@ This repo includes a bok list that have influenced my career growth.
     - Kubernetes in Practice, by Brian Storti
     - Automating Workflows with GitHub Actions, by Priscila Heller
     - Data Pipelines with Apache Airflow, by Julian de Ruiter and Bas Harenslak
+    - The Liberal Arts of Logic, Grammar & Rhetoric
 
-## Current Reads
+
+## Books I have been reading
+
+    - How to solve it - A system of thinking to help you solve any problem
