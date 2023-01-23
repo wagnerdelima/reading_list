@@ -12,8 +12,10 @@ This repo includes a book list that have influenced my career growth.
     - Automating Workflows with GitHub Actions, by Priscila Heller
     - Data Pipelines with Apache Airflow, by Julian de Ruiter and Bas Harenslak
     - The Liberal Arts of Logic, Grammar & Rhetoric
+    - How to solve it - A system of thinking to help you solve any problem
 
 
 ## Books I have been reading
 
-    - How to solve it - A system of thinking to help you solve any problem
+    - Observar el Cielo
+    - CPython Internals: Your Guide to the Python 3 Interpreter
