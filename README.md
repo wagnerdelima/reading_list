@@ -12,7 +12,7 @@
     - The Liberal Arts of Logic, Grammar & Rhetoric
     - How to solve it - A system of thinking to help you solve any problem
     - CPython Internals: Your Guide to the Python 3 Interpreter
-
+    - Hábitos atómicos, James Clear (Spanish Version)
 
 ## Books I have been reading
     - Observar el Cielo
