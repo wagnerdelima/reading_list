@@ -1,6 +1,4 @@
 # Book List
-This repo includes a book list that have influenced my career growth.
-
 
 ## Books I read
 
@@ -13,9 +11,8 @@ This repo includes a book list that have influenced my career growth.
     - Data Pipelines with Apache Airflow, by Julian de Ruiter and Bas Harenslak
     - The Liberal Arts of Logic, Grammar & Rhetoric
     - How to solve it - A system of thinking to help you solve any problem
+    - CPython Internals: Your Guide to the Python 3 Interpreter
 
 
 ## Books I have been reading
-
     - Observar el Cielo
-    - CPython Internals: Your Guide to the Python 3 Interpreter
