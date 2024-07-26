@@ -16,8 +16,9 @@
     - Learning SQL, Alen Beaulieu
 
 ## Reading next
-    - Oauth2 in Action
+    - Oauth2 in Action (In progress, Chapter 3)
     - Stack Engineer, Leadership Beyond the management track
 
 ## Courses
-    - Google Certified Cybersecurity Professional
+    - Google Certified Cybersecurity Professional (In progress)
+    - Beginner: Google Cloud Cybersecurity Certificate (In progress)
