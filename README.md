@@ -14,3 +14,10 @@
     - CPython Internals: Your Guide to the Python 3 Interpreter
     - Hábitos atómicos, James Clear (Spanish Version)
     - Learning SQL, Alen Beaulieu
+
+## Reading next
+    - Oauth2 in Action
+    - Stack Engineer, Leadership Beyond the management track
+
+## Courses
+    - Google Certified Cybersecurity Professional
