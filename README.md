@@ -16,7 +16,6 @@
     - Learning SQL, Alen Beaulieu
 
 ## Reading next
-    - Oauth2 in Action (In progress, Chapter 3)
     - Stack Engineer, Leadership Beyond the management track
 
 ## Courses
