@@ -17,7 +17,11 @@
 
 ## Reading next
     - Stack Engineer, Leadership Beyond the management track
+    - Read the Index Luke
+    - Something for Windows Functions
+    - Acing the CCNA Exam, Volume 1
 
 ## Courses
     - Google Certified Cybersecurity Professional (In progress)
-    - Beginner: Google Cloud Cybersecurity Certificate (In progress)
+    - Beginner: Google Cloud Cybersecurity Certificate - Course 1 (Completed)
+    - 
