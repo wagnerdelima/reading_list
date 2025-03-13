@@ -14,6 +14,7 @@
     - CPython Internals: Your Guide to the Python 3 Interpreter
     - Hábitos atómicos, James Clear (Spanish Version)
     - Learning SQL, Alen Beaulieu
+    - Ansible for Devops, by Jeff Geerling
 
 ## Reading next
     - Stack Engineer, Leadership Beyond the management track
